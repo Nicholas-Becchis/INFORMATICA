@@ -24,7 +24,7 @@ class Stella{
     fill(COLORE_STELLA);
     triangle(x-w/2,y-y/3,x,y+h/3,x+w/2,y-y/3);
     
-    if (x<1000){     
+    if (x<800){     
       x++;     
     }
     else{
